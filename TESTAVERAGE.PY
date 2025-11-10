@@ -17,6 +17,5 @@ lowest = min(test1, test2, test3)
 best_two_total = total - lowest
 average = best_two_total / 2
 print("Average of best two tests =", average)
-//Result:
-Result:
-Program to find the best of two test averages out of three marks is successfully completed and executed.
+//Result:Program to find the best of two test averages out of three marks is successfully completed and executed.
+
