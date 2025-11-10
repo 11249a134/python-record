@@ -26,4 +26,4 @@ for digit in num:
 print("Digit occurrences:")
 for digit, freq in count.items():
     print(f"Digit {digit} occurs { freq } time(s).")
-//Result:
+//Result:program to check whether a given number is a palindrome or not executed succesfully.
